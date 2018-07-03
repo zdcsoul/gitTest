@@ -5,3 +5,5 @@ test 2
 test 3
 
 Creating a new branch is quick AND simple.
+
+new change
